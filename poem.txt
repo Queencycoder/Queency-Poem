@@ -3,3 +3,5 @@ limited
 organisation
 is learning to code
 for her data analysis class
+to be able to 
+get a data analysis skills
