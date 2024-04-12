@@ -2,3 +2,4 @@ the Queency
 limited
 organisation
 is learning to code
+for her data analysis class
